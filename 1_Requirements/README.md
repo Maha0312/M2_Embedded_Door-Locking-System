@@ -46,6 +46,9 @@ Voltage Regulator
 ## Low level requirements
 
 Resistors
+Relays
+Switches
+Keypad Matrix
 Program coding
 
 
