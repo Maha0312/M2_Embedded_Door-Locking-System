@@ -1,13 +1,13 @@
-#INTRODUCTION
+# INTRODUCTION
 
 Password based Door locking system is a safe and secure access control to use. 
 
-##Aim
+## Aim
 
 To design a Password based door locking system, using Matrix keypad to enter the password.
 This project is extended to operate on IR Remote RC-604.
 
-##Features
+## Features
 1. You can enter password through Keypad or IR Remote
 2. Low Cost
 3. Simple to design
