@@ -1,5 +1,6 @@
-#Introduction
- Paasword based Door locking system is a safe and secure access control to use. 
+#INTRODUCTION
+
+Password based Door locking system is a safe and secure access control to use. 
 
 ##Aim
 
@@ -33,10 +34,16 @@ Using physical keys to lock or unlock the door is the most natural way and every
 
 
 ## High level requirements
+ATMEGA 328
+LCD Display
+Transistor
+Voltage Regulator
+
 
 
 ## Low level requirements
-
+Resistors
+Program coding
 
 
 # 4W's and 1H's
