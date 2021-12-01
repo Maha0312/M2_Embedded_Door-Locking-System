@@ -21,7 +21,8 @@ This project is extended to operate on IR Remote RC-604.
 Using physical keys to lock or unlock the door is the most natural way and everyone is acquainted with it. The physical key is a well-tested and well-known technology, but it also has its flaws. There can only be one unique key for a lock. For different locks you have different keys. Furthermore, carrying a large number of keys is a burden and increases the chance of keys getting stolen, misplaced or lost.Our goal is to design a solution for secure access control that can replace physical keys for accessing door. 
 
 
-##Benefits
+## Benefits
+
 1.This project provides security
 2.Power consumption is less
 3.Used commonly available components
@@ -34,6 +35,7 @@ Using physical keys to lock or unlock the door is the most natural way and every
 
 
 ## High level requirements
+
 ATMEGA 328
 LCD Display
 Transistor
@@ -42,6 +44,7 @@ Voltage Regulator
 
 
 ## Low level requirements
+
 Resistors
 Program coding
 
