@@ -101,4 +101,10 @@ It is locking system that is used to open or close the door using password
 ![locking system bd](https://user-images.githubusercontent.com/94235122/144374786-fd9a3b39-0dd8-4ef9-a015-db71e65b8982.png)
 
 # Flowchart
+
 ![flowchartlocking system](https://user-images.githubusercontent.com/94235122/144374852-fc057b1a-b38f-4914-81ba-8c58cffb85c4.png)
+
+
+# Circuit Diagram
+
+![embeddedproj](https://user-images.githubusercontent.com/94235122/144429382-17e50706-88a2-4e15-a386-9900547cc942.png)
