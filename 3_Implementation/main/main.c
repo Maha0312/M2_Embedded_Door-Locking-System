@@ -34,7 +34,7 @@ int main(void)
 { 
  DDRB = 0b00011011; //LCD port direction
  DDRD = 0b11011001; //LCD port direction
- DDRC = 0b00011010;  
+ DDRC = 0b00011010;  //Keypad
 
  PORTC= 0b11111111;  //Activate internal pullups for keypad
  PORTD |=(1<<PD1); 
