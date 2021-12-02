@@ -41,5 +41,5 @@ U8 Keypad_keylisten(void){
 			}
 		}
 	}
-	return ' ';
+	return '';
 }
