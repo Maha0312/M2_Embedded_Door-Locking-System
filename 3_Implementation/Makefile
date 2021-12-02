@@ -11,10 +11,9 @@ PROJ_PATH = $(BUILD_DIR)/$(PROJ_NAME)
 
 # All Source code files
 SRC = project_main.c\
-src/c\
-src/activity2.c\
-src/activity3.c\
-src/activity4.c\
+src/lcd.c\
+src/EEPROM.c\
+src/Keypad Driver.c\
 src/project_config.c
 
 # All header file paths
