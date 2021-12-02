@@ -4,9 +4,9 @@
 
 | **Description**   |      **Input**          | **Output**       | 
 | ---               | ---                     | -----            |
-| creating password | Entering pin            | Display password | 
-| to open the door  | Entering password       | Access granted to open the door|
-| To Open the door  | ENtering wrong password | Access denied \Displays incorrect password |
+| Creating password | Entering pin            | Display password | 
+| To open the door  | Entering password       | Access granted to open the door|
+| To Open the door  | Entering wrong password | Access denied \Displays incorrect password |
 
 
 
